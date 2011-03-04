@@ -1,0 +1,16 @@
+	uruchomiono w±tek #0 (przerwanie asynchroniczne)
+#0: wysy³anie sygna³u przerwania do w±tku
+#0: wys³ano, oczekiwanie na zakoñcznie
+	uruchomiono w±tek #2 (przez 2 sekundy nie mo¿na przerwaæ)
+funkcja finalizujaca dla watku #0
+#0: w±tek zakoñczony
+#1: wysy³anie sygna³u przerwania do w±tku
+#1: wys³ano, oczekiwanie na zakoñcznie
+	uruchomiono w±tek #1 (przerwanie opó¼nione)
+funkcja finalizujaca dla watku #1
+#1: w±tek zakoñczony
+#2: wysy³anie sygna³u przerwania do w±tku
+#2: wys³ano, oczekiwanie na zakoñcznie
+	w±tek #2 mo¿na ju¿ przerwaæ
+funkcja finalizujaca dla watku #2
+#2: w±tek zakoñczony

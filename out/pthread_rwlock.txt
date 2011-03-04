@@ -1,0 +1,433 @@
+ pisarz #0 czeka na dostêp
+ pisarz #0 ustawia now± warto¶æ
+ pisarz #1 czeka na dostêp
+  czytelnik #0 czeka na dostêp
+  czytelnik #1 czeka na dostêp
+  czytelnik #3 czeka na dostêp
+  czytelnik #2 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+ pisarz #0 zwalnia blokadê
+ pisarz #1 ustawia now± warto¶æ
+ pisarz #1 zwalnia blokadê
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #4 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #1 czeka na dostêp
+  czytelnik #3 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #4 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #3 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #3 czeka na dostêp
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #1 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #0 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #3 czeka na dostêp
+  czytelnik #2 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #0 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #0 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+ pisarz #0 czeka na dostêp
+ pisarz #0 ustawia now± warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #3 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #1 czeka na dostêp
+  czytelnik #0 czeka na dostêp
+ pisarz #0 zwalnia blokadê
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #4 odczytuje warto¶æ
+ pisarz #1 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #1 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+ pisarz #1 ustawia now± warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #3 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #1 czeka na dostêp
+  czytelnik #2 czeka na dostêp
+ pisarz #1 zwalnia blokadê
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #0 czeka na dostêp
+  czytelnik #3 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #0 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #3 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #0 czeka na dostêp
+  czytelnik #3 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+ pisarz #0 czeka na dostêp
+  czytelnik #2 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+ pisarz #0 ustawia now± warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #1 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #3 czeka na dostêp
+  czytelnik #2 czeka na dostêp
+ pisarz #0 zwalnia blokadê
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #3 odczytuje warto¶æ
+ pisarz #1 czeka na dostêp
+  czytelnik #1 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+ pisarz #1 ustawia now± warto¶æ
+  czytelnik #3 czeka na dostêp
+  czytelnik #1 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #0 czeka na dostêp
+  czytelnik #2 czeka na dostêp
+ pisarz #1 zwalnia blokadê
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #4 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+  czytelnik #3 czeka na dostêp
+  czytelnik #0 czeka na dostêp
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #3 czeka na dostêp
+  czytelnik #0 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #4 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #2 zwalnia blokadê
+  czytelnik #0 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #2 czeka na dostêp
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #3 czeka na dostêp
+  czytelnik #3 odczytuje warto¶æ
+  czytelnik #4 czeka na dostêp
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #1 czeka na dostêp
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #0 czeka na dostêp
+  czytelnik #0 odczytuje warto¶æ
+ pisarz #0 czeka na dostêp
+  czytelnik #0 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+ pisarz #0 ustawia now± warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #1 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #3 czeka na dostêp
+  czytelnik #0 czeka na dostêp
+ pisarz #0 zwalnia blokadê
+  czytelnik #2 odczytuje warto¶æ
+  czytelnik #0 odczytuje warto¶æ
+  czytelnik #1 odczytuje warto¶æ
+  czytelnik #4 odczytuje warto¶æ
+  czytelnik #3 odczytuje warto¶æ
+ pisarz #1 czeka na dostêp
+  czytelnik #0 zwalnia blokadê
+  czytelnik #1 zwalnia blokadê
+  czytelnik #4 zwalnia blokadê
+  czytelnik #3 zwalnia blokadê
+  czytelnik #2 zwalnia blokadê
+ pisarz #1 ustawia now± warto¶æ
+  czytelnik #2 czeka na dostêp
+  czytelnik #1 czeka na dostêp
+  czytelnik #4 czeka na dostêp
+  czytelnik #3 czeka na dostêp
+  czytelnik #0 czeka na dostêp

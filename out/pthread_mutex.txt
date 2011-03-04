@@ -1,0 +1,6 @@
+licznik = 0
+licznik = 9968, spodziewana warto¶æ = 10000 B£¡D!!!
+
+licznik = 0
+licznik = 10000, spodziewana warto¶æ = 10000 
+

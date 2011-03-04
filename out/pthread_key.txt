@@ -1,0 +1,15 @@
+adres napisu: 0x9bd6008 ('***')
+adres napisu: 0x9bd60a8 ('!!!')
+!!!: Witaj w równoleg³ym ¶wiecie!
+adres napisu: 0x9bd6148 ('###')
+###: Witaj w równoleg³ym ¶wiecie!
+***: Witaj w równoleg³ym ¶wiecie!
+!!!: W±tek wykonuje pracê
+***: W±tek wykonuje pracê
+###: W±tek wykonuje pracê
+!!!: W±tek zakoñczony
+wywo³ano destruktor, adres pamiêci do zwoleniania: 0x9bd60a8 ('!!!')
+***: W±tek zakoñczony
+wywo³ano destruktor, adres pamiêci do zwoleniania: 0x9bd6008 ('***')
+###: W±tek zakoñczony
+wywo³ano destruktor, adres pamiêci do zwoleniania: 0x9bd6148 ('###')

@@ -1,0 +1,4 @@
+w±tek g³ówny oczekuje na sygna³
+	w±tek siê rozpocz±³
+	w±tek wysy³a sygna³ SIGUSR1 do g³ównego w±tku
+w±tek g³ówny otrzyma³ sygna³ SIGUSR1

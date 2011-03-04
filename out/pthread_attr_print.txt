@@ -1,0 +1,7 @@
+atrybuty w±tku
+* rodzaj: joinable
+* adres stosu: (nil)
+* rozmiar stosu: 8388608 (minimalny 16384)
+* rozmiar obszaru zabezpieczaj±cego: 4096
+* parametry szeregowania dziedziczone
+* zakres szeregowania: system

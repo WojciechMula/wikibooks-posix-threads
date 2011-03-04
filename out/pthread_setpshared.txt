@@ -1,0 +1,11 @@
+$ ./przyklad
+proces 1
+id segmentu pamiêci dzielonej: 27197465
+adres przy³±czonego segmentu: 0xb76e7000
+pthread_cond_wait
+inny proces ustawi³ napis: 'czy konie mnie s³ysz±?'
+
+$ ./przyklad 27197465 "czy konie mnie s³ysz±?"
+proces 2: segment pamiêci dzielonej 27197465
+adres przy³±czonego segmentu: 0xb7727000
+proces ustawi³ napis 'czy konie mnie s³ysz±?' i wykona³ pthread_cond_signal

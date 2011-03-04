@@ -1,0 +1,32 @@
+$ ./przyklad 0
+SCHED_OTHER: priorytety w zakresie 0 ... 0
+utworzono w±tek #0 o priorytecie 0
+utworzono w±tek #1 o priorytecie 0
+utworzono w±tek #2 o priorytecie 0
+utworzono w±tek #3 o priorytecie 0
+w±tek #0 (priorytet   0): licznik = 30630
+w±tek #1 (priorytet   0): licznik = 30631
+w±tek #2 (priorytet   0): licznik = 30633
+w±tek #3 (priorytet   0): licznik = 30620
+
+$ ./przyklad 1
+SCHED_RR: priorytety w zakresie 1 ... 99
+utworzono w±tek #0 o priorytecie 1
+utworzono w±tek #1 o priorytecie 33
+utworzono w±tek #2 o priorytecie 66
+utworzono w±tek #3 o priorytecie 99
+w±tek #0 (priorytet   1): licznik = 146812
+w±tek #1 (priorytet  33): licznik = 150084
+w±tek #2 (priorytet  66): licznik = 151116
+w±tek #3 (priorytet  99): licznik = 150744
+
+$ ./przyklad 2
+SCHED_FIFO: priorytety w zakresie 1 ... 99
+utworzono w±tek #0 o priorytecie 1
+utworzono w±tek #1 o priorytecie 33
+utworzono w±tek #2 o priorytecie 66
+utworzono w±tek #3 o priorytecie 99
+w±tek #0 (priorytet   1): licznik = 146659
+w±tek #1 (priorytet  33): licznik = 149249
+w±tek #2 (priorytet  66): licznik = 150764
+w±tek #3 (priorytet  99): licznik = 150895

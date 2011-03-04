@@ -1,0 +1,35 @@
+pocz±tek programu, uruchomianie zostanie 10 w±tków
+w±tek #0 uruchomiony, dwa razy wykona 86832212 pustych pêtli
+w±tek #7 uruchomiony, dwa razy wykona 8298184 pustych pêtli
+w±tek #9 uruchomiony, dwa razy wykona 67891648 pustych pêtli
+w±tek #5 uruchomiony, dwa razy wykona 27931234 pustych pêtli
+w±tek #8 uruchomiony, dwa razy wykona 23876946 pustych pêtli
+w±tek #3 uruchomiony, dwa razy wykona 52231547 pustych pêtli
+w±tek #6 uruchomiony, dwa razy wykona 16183104 pustych pêtli
+w±tek #4 uruchomiony, dwa razy wykona 87068047 pustych pêtli
+w±tek #1 uruchomiony, dwa razy wykona 59202170 pustych pêtli
+w±tek #2 uruchomiony, dwa razy wykona 48470151 pustych pêtli
+po oko³o sekundzie w±tki zu¿y³y:
+* #0: 209ms
+* #1: 138ms
+* #2: 119ms
+* #3: 125ms
+* #4: 209ms
+* #5: 67ms
+* #6: 41ms
+* #7: 17ms
+* #8: 59ms
+* #9: 154ms
+w±tek #7 zakoñczony, zu¿y³ 39ms czasu procesora
+w±tek #6 zakoñczony, zu¿y³ 80ms czasu procesora
+w±tek #8 zakoñczony, zu¿y³ 117ms czasu procesora
+w±tek #5 zakoñczony, zu¿y³ 135ms czasu procesora
+w±tek #2 zakoñczony, zu¿y³ 232ms czasu procesora
+w±tek #3 zakoñczony, zu¿y³ 251ms czasu procesora
+w±tek #1 zakoñczony, zu¿y³ 285ms czasu procesora
+w±tek #9 zakoñczony, zu¿y³ 323ms czasu procesora
+w±tek #0 zakoñczony, zu¿y³ 423ms czasu procesora
+w±tek #4 zakoñczony, zu¿y³ 418ms czasu procesora
+
+g³ówny w±tek zu¿y³ 0ms czasu procesora
+proces zu¿y³ 2307ms czasu procesora

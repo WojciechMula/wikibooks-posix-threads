@@ -1,0 +1,28 @@
+$ ./przyklad 
+u¿ycie: program [0|1|2]
+
+$ ./przyklad 0
+mutex typu PTHREAD_MUTEX_NORMAL
+przed wykonaniem pthread_mutex_lock (1)
+... wykonano pthread_mutex_lock (1)
+przed wykonaniem pthread_mutex_lock (2)
+^C
+
+$ ./przyklad 1
+mutex typu PTHREAD_MUTEX_ERRORCHECK
+przed wykonaniem pthread_mutex_lock (1)
+... wykonano pthread_mutex_lock (1)
+przed wykonaniem pthread_mutex_lock (2)
+pthread_mutex_lock (2): Resource deadlock avoided
+
+$ ./przyklad 2
+mutex typu PTHREAD_MUTEX_RECURSIVE
+przed wykonaniem pthread_mutex_lock (1)
+... wykonano pthread_mutex_lock (1)
+przed wykonaniem pthread_mutex_lock (2)
+... wykonano pthread_mutex_lock (2)
+przed wykonaniem pthread_mutex_unlock (2)
+... wykonano pthread_mutex_unlock (2)
+przed wykonaniem pthread_mutex_unlock (1)
+... wykonano pthread_mutex_unlock (1)
+program zakoñczony

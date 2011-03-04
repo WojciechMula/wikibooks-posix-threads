@@ -1,0 +1,35 @@
+pocz±tek programu
+tworzenie 3 w±tków w procesie 8228
+	uruchomiono w±tek #1
+		w±tek #1 w procesie #8228
+	uruchomiono w±tek #2
+		w±tek #2 w procesie #8228
+	uruchomiono w±tek #3
+		w±tek #3 w procesie #8228
+		w±tek #1 w procesie #8228
+		w±tek #2 w procesie #8228
+		w±tek #3 w procesie #8228
+fork => 8232
+tworzenie 3 w±tków w procesie 8232
+fork => 0
+	uruchomiono w±tek #1
+		w±tek #1 w procesie #8232
+	uruchomiono w±tek #2
+		w±tek #2 w procesie #8232
+	uruchomiono w±tek #3
+		w±tek #3 w procesie #8232
+		w±tek #1 w procesie #8228
+		w±tek #3 w procesie #8228
+		w±tek #2 w procesie #8228
+		w±tek #1 w procesie #8232
+		w±tek #2 w procesie #8232
+		w±tek #3 w procesie #8232
+		w±tek #1 w procesie #8228
+		w±tek #2 w procesie #8228
+		w±tek #3 w procesie #8228
+		w±tek #1 w procesie #8232
+		w±tek #2 w procesie #8232
+		w±tek #3 w procesie #8232
+		w±tek #1 w procesie #8228
+		w±tek #3 w procesie #8228
+		w±tek #2 w procesie #8228

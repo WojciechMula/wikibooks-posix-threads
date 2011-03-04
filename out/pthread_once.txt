@@ -1,0 +1,11 @@
+Rozpoczynanie programu
+Uruchomiono watek nr 0
+Uruchomiono watek nr 2
+Uruchomiono watek nr 1
+Uruchomiono watek nr 3
+Uruchomiono watek nr 4
+Uruchomiono watek nr 5
+Uruchomiono watek nr 6
+Uruchomiono watek nr 7
+Uruchomiono watek nr 8
+Uruchomiono watek nr 9

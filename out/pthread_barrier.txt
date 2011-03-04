@@ -1,0 +1,22 @@
+zostanie uruchomionych 10 w±tków
+	w±tek #0 rozpoczêty, zostanie wstrzymany na 4 sekund
+	w±tek #1 rozpoczêty, zostanie wstrzymany na 1 sekund
+	w±tek #2 rozpoczêty, zostanie wstrzymany na 4 sekund
+	w±tek #3 rozpoczêty, zostanie wstrzymany na 4 sekund
+	w±tek #4 rozpoczêty, zostanie wstrzymany na 1 sekund
+	w±tek #5 rozpoczêty, zostanie wstrzymany na 4 sekund
+	w±tek #6 rozpoczêty, zostanie wstrzymany na 2 sekund
+	w±tek #8 rozpoczêty, zostanie wstrzymany na 2 sekund
+	w±tek #7 rozpoczêty, zostanie wstrzymany na 3 sekund
+	w±tek #9 rozpoczêty, zostanie wstrzymany na 2 sekund
+	w±tek #1 osi±gn±³ barierê
+	w±tek #4 osi±gn±³ barierê
+	w±tek #8 osi±gn±³ barierê
+	w±tek #6 osi±gn±³ barierê
+	w±tek #9 osi±gn±³ barierê
+	w±tek #7 osi±gn±³ barierê
+	w±tek #2 osi±gn±³ barierê
+	w±tek #0 osi±gn±³ barierê
+	w±tek #3 osi±gn±³ barierê
+	w±tek #5 osi±gn±³ barierê
+	wszystkie w±tki osi±gnê³y barierê (PTHREAD_BARRIER_SERIAL_THREAD w w±teku #5)

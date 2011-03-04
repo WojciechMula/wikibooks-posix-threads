@@ -1,0 +1,6 @@
+licznik = 0, limit = 5
+ licznik = 1, limit = 5
+  licznik = 2, limit = 5
+   licznik = 3, limit = 5
+    licznik = 4, limit = 5
+     licznik = 5, limit = 5

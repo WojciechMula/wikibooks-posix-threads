@@ -1,0 +1,9 @@
+w±tek #0 zaalokowa³ 100 bajtów pod adresem 0x9058098
+w±tek #1 zaalokowa³ 100 bajtów pod adresem 0x9058190
+w±tek #0 zaalokowa³ 200 bajtów pod adresem 0x90581f8
+w±tek #1 zaalokowa³ 200 bajtów pod adresem 0x90582c8
+zwalnianie pamiêci spod adresu 0x90581f8
+zwalnianie pamiêci spod adresu 0x9058098
+w±tek #0 zakoñczy³ siê
+zwalnianie pamiêci spod adresu 0x90582c8
+zwalnianie pamiêci spod adresu 0x9058190
